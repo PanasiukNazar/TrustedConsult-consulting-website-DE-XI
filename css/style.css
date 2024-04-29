@@ -2204,6 +2204,116 @@ font-size: 17px;}
 	bottom: 10px;
 }
 
+/* customers section start */
+
+.customer_section {
+    width: 100%;
+    float: left;
+}
+
+.customer_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #070603;
+    text-align: center;
+    font-weight: bold;
+}
+
+.customer_img img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.customer_section_2 {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+}
+
+.box_main {
+    width: 100%;
+    background-color: #ffffff;
+    padding: 40px 30px;
+    box-shadow: 0px 0px 18px -6px;
+    margin-bottom: 10px;
+}
+
+.customer_text {
+    width: 100%;
+    font-size: 16px;
+    color: #262626;
+    margin: 0 auto;
+    padding-top: 20px;
+    display: flex;
+}
+
+.customer_main {
+    width: 100%;
+    float: left;
+}
+
+.customer_left {
+    width: 30%;
+    float: left;
+}
+
+.customer_right {
+    width: 70%;
+    float: left;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.customer_name {
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    color: #262626;
+}
+
+.enim_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffde07;
+    margin: 0px;
+}
+
+#my_slider a.carousel-control-prev {
+    left: 30px;
+    top: 160px;
+}
+
+#my_slider a.carousel-control-next {
+    right: 30px;
+    top: 160px;
+}
+
+#my_slider .carousel-control-next,
+#my_slider .carousel-control-prev {
+    width: 55px;
+    height: 55px;
+    background: #08b3ab;
+    opacity: 1;
+    font-size: 36px;
+    color: #ffffff;
+    border-radius: 100%;
+}
+
+#my_slider .carousel-control-next:focus,
+#my_slider .carousel-control-next:hover,
+#my_slider .carousel-control-prev:focus,
+#my_slider .carousel-control-prev:hover {
+    color: #ffffff;
+    background-color: #08b3ab;
+}
+
+/* customers section end */
+
 /* Cookie banner */
 
 /* Google Fonts - Poppins */
