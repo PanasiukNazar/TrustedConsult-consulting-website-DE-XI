@@ -2297,7 +2297,7 @@ font-size: 17px;}
 #my_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background: #08b3ab;
+    background: #001f40;
     opacity: 1;
     font-size: 36px;
     color: #ffffff;
@@ -2309,7 +2309,7 @@ font-size: 17px;}
 #my_slider .carousel-control-prev:focus,
 #my_slider .carousel-control-prev:hover {
     color: #ffffff;
-    background-color: #08b3ab;
+    background-color: #001f40;
 }
 
 /* customers section end */
